@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.3.0"
+  version: "2.3.1"
 
 package:
   name: simple-track
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/simple-track/simple_track-${{ version }}.tar.gz
-  sha256: f2503cab8f03e347783039302c109d55b667e181ab272b9c1ed32c95f7d5fb15
+  sha256: 05cd178d4166e5a4d660818031dabf2ac52b8e2848045e395a6c0799d5705f78
 
 build:
   number: 0
